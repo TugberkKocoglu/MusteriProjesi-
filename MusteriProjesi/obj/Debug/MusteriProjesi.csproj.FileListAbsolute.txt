@@ -1,0 +1,11 @@
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\bin\Debug\MusteriProjesi.exe.config
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\bin\Debug\MusteriProjesi.exe
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\bin\Debug\MusteriProjesi.pdb
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\obj\Debug\MusteriProjesi.csproj.AssemblyReference.cache
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\obj\Debug\MusteriProjesi.Properties.Resources.resources
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\obj\Debug\MusteriProjesi.csproj.GenerateResource.cache
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\obj\Debug\MusteriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\obj\Debug\MusteriProjesi.exe
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\obj\Debug\MusteriProjesi.pdb
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\obj\Debug\MusteriProjesi.FrmCity.resources
+C:\Users\cenkh\OneDrive\Desktop\20Proje\MusteriProjesi\MusteriProjesi\obj\Debug\MusteriProjesi.FrmMap.resources

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cenkh\\OneDrive\\Desktop\\20Proje\\MusteriProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA2158-4229-44E7-B407-6AED54DADD73}|MusteriProjesi\\MusteriProjesi.csproj|c:\\users\\cenkh\\onedrive\\desktop\\20proje\\musteriprojesi\\musteriprojesi\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EA2158-4229-44E7-B407-6AED54DADD73}|MusteriProjesi\\MusteriProjesi.csproj|solutionrelative:musteriprojesi\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA2158-4229-44E7-B407-6AED54DADD73}|MusteriProjesi\\MusteriProjesi.csproj|C:\\Users\\cenkh\\OneDrive\\Desktop\\20Proje\\MusteriProjesi\\musteriprojesi\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0EA2158-4229-44E7-B407-6AED54DADD73}|MusteriProjesi\\MusteriProjesi.csproj|solutionrelative:musteriprojesi\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMap.cs",
+              "DocumentMoniker": "C:\\Users\\cenkh\\OneDrive\\Desktop\\20Proje\\MusteriProjesi\\MusteriProjesi\\FrmMap.cs",
+              "RelativeDocumentMoniker": "MusteriProjesi\\FrmMap.cs",
+              "ToolTip": "C:\\Users\\cenkh\\OneDrive\\Desktop\\20Proje\\MusteriProjesi\\MusteriProjesi\\FrmMap.cs",
+              "RelativeToolTip": "MusteriProjesi\\FrmMap.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:42:17.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cenkh\\OneDrive\\Desktop\\20Proje\\MusteriProjesi\\MusteriProjesi\\FrmMap.cs",
+              "RelativeDocumentMoniker": "MusteriProjesi\\FrmMap.cs",
+              "ToolTip": "C:\\Users\\cenkh\\OneDrive\\Desktop\\20Proje\\MusteriProjesi\\MusteriProjesi\\FrmMap.cs [Design]",
+              "RelativeToolTip": "MusteriProjesi\\FrmMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:38:44.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
